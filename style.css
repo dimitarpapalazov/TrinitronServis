@@ -1,5 +1,5 @@
 .nav-item:hover {
-    background: white;
+    background: #d0d0d0;
 }
 
 #front-img {
@@ -11,5 +11,9 @@
 }
 
 .bg-light-custom {
-    background-color: whitesmoke;
+    background-color: #f5f5f5;
+}
+
+.bg-white-custom {
+    background-color: #ffffff;
 }
