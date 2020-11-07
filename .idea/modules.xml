@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/trinitron.mk.iml" filepath="$PROJECT_DIR$/.idea/trinitron.mk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TrinitronServis.iml" filepath="$PROJECT_DIR$/.idea/TrinitronServis.iml" />
     </modules>
   </component>
 </project>
