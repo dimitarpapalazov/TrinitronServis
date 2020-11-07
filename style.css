@@ -1,5 +1,5 @@
 .nav-item:hover {
-    background: lightgray; /*Неубо изгледа мобилна верзија*/
+    background: white;
 }
 
 #front-img {
@@ -10,3 +10,6 @@
     margin-bottom: 1em;
 }
 
+.bg-light-custom {
+    background-color: whitesmoke;
+}
